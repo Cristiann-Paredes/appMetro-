@@ -1,9 +1,3 @@
-# Plantilla para proyectos de react
+# Plantilla Cristian Paredes
 
-Modo normal
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/plantilla-react-fundamentos/main/src/assets/logo-intro.png)
-
-Modo darkmode
-------
-![Image text](https://raw.githubusercontent.com/Byrontosh/plantilla-react-fundamentos/main/src/assets/logo-dark.png)
+ya mas noche pongo caps 
